@@ -1,5 +1,10 @@
 # Remindify
 
+
+### Demo
+![remindify](https://user-images.githubusercontent.com/92919173/228324050-fa3ad696-4412-44c4-8990-f93ca3f9c762.jpg)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
