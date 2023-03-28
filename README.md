@@ -1,5 +1,5 @@
 # Remindify
-### "Never forget a task again with our innovative task management app! 
+### "Never forget a task again with Remindify! 
 
 Remindify is a MERN stack app that can easily add tasks and their deadlines to ensure that you stay on top of your to-do list. Once you've added a task, our app will automatically send you a WhatsApp message at the specified time to remind you of what you need to do.
 
