@@ -5,9 +5,6 @@ Remindify is a MERN stack app that can easily add tasks and their deadlines to e
 
 Remindify uses Twilio, a trusted messaging platform, to ensure that you receive your reminders reliably and on time. With our app, you can rest assured that you'll never miss an important deadline again, whether it's for work, school, or personal tasks.
 
-### Demo
-![remindify](https://user-images.githubusercontent.com/92919173/228324050-fa3ad696-4412-44c4-8990-f93ca3f9c762.jpg)
-
 # Technology Stack used:
 1) Node JS
 2) Express JS
@@ -15,6 +12,11 @@ Remindify uses Twilio, a trusted messaging platform, to ensure that you receive 
 4) MongoDB
 5) Twilio
 6) GitHub
+
+### Demo
+![remindify](https://user-images.githubusercontent.com/92919173/228324050-fa3ad696-4412-44c4-8990-f93ca3f9c762.jpg)
+
+
 
 # Getting Started with Create React App
 
