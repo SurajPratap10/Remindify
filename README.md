@@ -13,7 +13,7 @@ Remindify uses Twilio, a trusted messaging platform, to ensure that you receive 
 5) Twilio
 6) GitHub
 
-# Link To Explanation Video:
+# Demo Video:
 YouTube: https://www.youtube.com/watch?v=oFDxkR30u1U
 <br>
 # Overview:
